@@ -7,8 +7,7 @@ public class ScoreManager : MonoBehaviour
     public Text TV;
     [Header("分數")]
     public int score;
-    //[Header("進球音效")]
-    //public AudioClip Sound;
+    
 
 
     private void OnTriggerEnter(Collider other) //進入感應區
