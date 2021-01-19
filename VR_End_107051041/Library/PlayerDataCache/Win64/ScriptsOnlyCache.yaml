@@ -39,8 +39,6 @@ ScriptsOnlyBuild:
     - Valve.VR.SteamVR_Settings
     - Valve.VR.SteamVR_Skeleton_Pose
     - Valve.VR.SteamVR_Skeleton_Poser
-    SteamVR_Editor.dll:
-    - Valve.VR.SteamVR_UnitySettingsWindow
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -198,13 +196,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13508}
     - Class: 114
-      Script: {instanceID: 13574}
+      Script: {instanceID: 13572}
     - Class: 114
-      Script: {instanceID: 13592}
+      Script: {instanceID: 13590}
     - Class: 114
-      Script: {instanceID: 13658}
+      Script: {instanceID: 13656}
     - Class: 114
-      Script: {instanceID: 13682}
+      Script: {instanceID: 13680}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
